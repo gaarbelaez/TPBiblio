@@ -6,7 +6,7 @@ This repository runs **bibliometrix** and **biblioshiny** on Binder using RStudi
 
 Click below to open RStudio with biblioshiny pre-installed:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gaarbelaez/TPBiblio.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gaarbelaez/TPBiblio.git/HEAD?urlpath=rstudio)
 
 ## Included
 - bibliometrix
