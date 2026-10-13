@@ -1,1 +1,1 @@
-install.packages(c("bibliometrix", "BibliometrixData", "readr"))
+install.packages(c("bibliometrix", "bibliometrixData", "readr"))
